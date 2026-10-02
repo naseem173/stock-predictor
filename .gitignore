@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+market.db
+*.zip
+.DS_Store
